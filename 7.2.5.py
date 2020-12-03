@@ -11,4 +11,4 @@ while n_1 > 0 :
         else:
             print(num)
         num +=1
-    n_1 -= 1      
+        n_1 -= 1      
